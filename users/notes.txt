@@ -1,0 +1,14 @@
+Types of Users: -
+i. Administrator : -
+    Every registration request goes to Administrators.
+    Administrators are registered by ? 
+    Can view changes made by other users.
+    Can rollback changes made by other users.
+    Before update, the changes come to speicifc assigned admin for verification.
+    Can make changes themselves
+
+ii. Editors :-
+    Can make changes, but changes go for verification to their Administrators.
+
+iii. Viewers :-
+    Can only view models.
